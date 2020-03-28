@@ -5,3 +5,8 @@ Resolvi recriar utilizando somente HTML e CSS para treinar alinhamentos e pseudo
 
 
 ## Layout
+
+![layout facebook01](https://github.com/douglaspujol/facebookcss/blob/master/Facebook.png)
+
+
+![layout facebook02](https://github.com/douglaspujol/facebookcss/blob/master/Facebook002.png)
